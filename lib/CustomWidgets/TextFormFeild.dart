@@ -6,7 +6,7 @@ class CustomTextField extends StatelessWidget {
   final String? Function(String?)? validator;
 
   CustomTextField({required this.label, required this.controller, this.obscureText = false, this.validator});
-
+//
   @override
   Widget build(BuildContext context) {
     return TextFormField(
