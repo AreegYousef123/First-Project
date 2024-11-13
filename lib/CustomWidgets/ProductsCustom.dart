@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:untitled2/Screens/DetailsScreen.dart';
- //My first commit
+ //My first
 class Productswidget extends StatelessWidget {
   final String productimage;
   final String productname;
